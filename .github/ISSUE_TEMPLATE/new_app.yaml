@@ -8,7 +8,7 @@ body:
     attributes:
       label:  Title
       description: What is the title of this app
-  - type: dropdown
+  - type: dropboxes
     id: category
     attributes:
       label:  What category does it fall within?
